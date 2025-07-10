@@ -1,0 +1,13 @@
+JS does not compile it's a interpretated language
+so interpreted languages
+    ->usually go line by line
+    ->Can run partially if the error comes later(Whereas compiled lang does not run if there is an error)
+    ->exm -- js,python
+
+Single threaded nature of js:- It's always run across only a single core of machine at a time.
+that's why it's considered a bad language for scalable systems.
+
+
+Js run line by line means only one line will run at a time.
+
+1:38:57
