@@ -1,0 +1,22 @@
+#Green{
+    background-color: green;
+}
+#Red{
+    background-color: red;
+}
+#Blue{
+    background-color: blue;
+}
+#Random{
+    background-color:white;
+}
+
+button{
+  border-radius: 5px;
+  width: 100px;
+  height: 40px;
+  margin: 5px;
+
+}
+/* # it shows we are using id as edentifier and button we are using tag as it
+as all button will get this as no workon id */
